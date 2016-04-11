@@ -24,6 +24,14 @@ set nocompatible
 " Bundle: git://github.com/fatih/vim-go.git
 " Bundle: git://github.com/xolox/vim-notes.git
 " Bundle: git://github.com/xolox/vim-misc.git
+" Bundle: git://github.com/vim-utils/vim-husk.git
+" Bundle: https://github.com/airblade/vim-gitgutter.git
+" Bundle: https://github.com/benekastah/neomake.git
+" Bundle: https://github.com/brettanomyces/nvim-editcommand.git
+" Bundle: https://github.com/jalvesaq/vimcmdline.git
+" Bundle: https://github.com/kassio/neoterm.git
+" Bundle: https://github.com/tpope/vim-pathogen.git
+" Bundle: https://github.com/wikitopian/hardmode.git
 
 " Setup the bundles
 runtime bundle/vim-pathogen/autoload/pathogen.vim
