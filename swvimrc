@@ -12,6 +12,7 @@ set nocompatible
 " Bundle: git://github.com/tpope/vim-fugitive.git
 " Bundle: git://github.com/tpope/vim-commentary.git
 " Bundle: git://github.com/wycats/nerdtree.git
+" Bundle: git://github.com/scrooloose/nerdcommenter.git
 " Bundle: git://github.com/pangloss/vim-javascript.git
 " Bundle: git://github.com/garbas/vim-snipmate.git
 " Bundle: git://github.com/honza/vim-snippets.git
@@ -32,6 +33,8 @@ set nocompatible
 " Bundle: https://github.com/kassio/neoterm.git
 " Bundle: https://github.com/tpope/vim-pathogen.git
 " Bundle: https://github.com/wikitopian/hardmode.git
+" Bundle: git://github.com/vim-airline/vim-airline.git
+" Bundle: git://github.com/edkolev/tmuxline.vim.git
 
 " Setup the bundles
 runtime bundle/vim-pathogen/autoload/pathogen.vim
