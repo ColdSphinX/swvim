@@ -38,7 +38,7 @@ set nocompatible
 
 " Setup the bundles
 runtime bundle/vim-pathogen/autoload/pathogen.vim
-" Bundle: tpope/vim-pathogen
+" -Bundle: tpope/vim-pathogen
 call pathogen#infect()
 
 " Set solarized-colors
